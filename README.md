@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44daaf0c-27b7-4789-b2b1-128b2f0c227c" />
+
 <!--
 **RohitKumar62061/Rohitkumar62061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
